@@ -1,8 +1,10 @@
-<h1 align="center">Hi there! <img src="hey.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, I'm Martim Aires de Sousa! <img src="hey.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <h2>Welcome to my GitHub profile!</h2><br><br>
 </p>
+
+<p>I am a computer science student.</p>
 
 <!--
 **martimasousa/martimasousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
