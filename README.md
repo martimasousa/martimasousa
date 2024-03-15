@@ -3,13 +3,30 @@
 <h2 align="center">Welcome to my GitHub profile!</h2>
 
 ## :book: About me
-- :mortar_board: Studying Computer Science at [Instituto Superior Técnico](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjbquCwgPeEAxXVh_0HHQrKCHwQFnoECBAQAQ&url=https%3A%2F%2Ftecnico.ulisboa.pt%2Fpt%2F&usg=AOvVaw2ijpb87B3Jspj5nx3bv3uM&opi=89978449).
-- :computer: You can find all my open-source projects in my profile.
+- :mortar_board: Studying Computer Science and Engineering at <a href="https://tecnico.ulisboa.pt/en/" target="_blank">Instituto Superior Técnico</a>.
+- :mag: You can find all my open-source projects in my profile.
 
-## :computer: Languages
-[![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_%2528programming_language%2529&psig=AOvVaw0jGuCk18ugEK21cNjDdGEl&ust=1710619203386000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiUtKGH94QDFQAAAAAdAAAAABAE)](https://github.com/martimasousa)
+## :wrench: My Tools
+### Languages
+![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript)
+![Static Badge](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+![Static Badge](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=c%2B%2B)
+![Static Badge](https://img.shields.io/badge/BASH-black?style=for-the-badge&logo=gnubash)
+
+### Technologies & Frameworks
+![Static Badge](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![Static Badge](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)
+![Static Badge](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+![Static Badge](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs)
 
 
+### Operative Systems
+![Static Badge](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
+
+
+## &#x1f4c8; GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martimasousa&layout=donut&theme=great-gatsby)](https://github.com/martimasousa)
 <!--
 **martimasousa/martimasousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
