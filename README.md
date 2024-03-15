@@ -6,6 +6,8 @@
 - :mortar_board: Studying Computer Science and Engineering at <a href="https://tecnico.ulisboa.pt/en/" target="_blank">Instituto Superior Técnico</a>.
 - :mag: You can find all my open-source projects in my profile.
 
+<br>
+
 ## :wrench: My Tools
 ### Languages
 ![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
@@ -24,6 +26,7 @@
 ### Operative Systems
 ![Static Badge](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
 
+<br>
 
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martimasousa&layout=donut&theme=great-gatsby)](https://github.com/martimasousa)
