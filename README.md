@@ -1,7 +1,5 @@
 <h1 align="left">Hi, I'm Martim! <img src="hey.gif" width="28px" alt="👋"></h1>
 
-<br>
-
 ## :book: About me
 - :mortar_board: Studying Computer Science and Engineering at <a href="https://tecnico.ulisboa.pt/en/" target="_blank">Instituto Superior Técnico</a>.
 - :mag: Find all my open-source projects in my profile [repositories section](https://github.com/martimasousa?tab=repositories).
