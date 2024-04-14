@@ -21,8 +21,10 @@
 ![Static Badge](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs)
 
 
-### Operative Systems
+### Operating Systems
 ![Static Badge](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
+![Static Badge](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)
+
 
 <br>
 
